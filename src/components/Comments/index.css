@@ -1,0 +1,53 @@
+/* Write your CSS here */
+.comment_image {
+  width: 20vw;
+}
+.first_backGround {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  margin-right: 100px;
+}
+.second_backGround {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  margin-right: 100px;
+}
+.backGround {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.inputElement {
+  width: 19vw;
+  margin-bottom: 15px;
+}
+.textareaElement {
+  margin-bottom: 15px;
+}
+.button {
+  background-color: #0284c7;
+  color: #dee0e3;
+  border-width: 0px;
+  height: 25px;
+}
+.hrLine {
+  width: 50vw;
+}
+.secondPart {
+  width: 50vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+
+.main {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
